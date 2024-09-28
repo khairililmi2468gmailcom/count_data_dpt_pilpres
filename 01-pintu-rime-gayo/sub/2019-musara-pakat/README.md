@@ -1,0 +1,8 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-11-aceh/tree/main/pilpres/hitung-suara/sub/11-aceh/sub/17-bener-meriah/sub/01-pintu-rime-gayo/sub/2019-musara-pakat/sub/001-tps)
+ | 
+[TPS 002](https://github.com/gigit-pemilu/pemilu-2024-11-aceh/tree/main/pilpres/hitung-suara/sub/11-aceh/sub/17-bener-meriah/sub/01-pintu-rime-gayo/sub/2019-musara-pakat/sub/002-tps)
+
